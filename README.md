@@ -22,7 +22,7 @@ Here we preprocess the data for Machine learning analysis.
 
 With the PCA done, it reduced the the dimensions of the X DataFrame to 3 principal components.
 
-![pca_df]](./Resources/pca_1.png)
+![pca_df](./Resources/pca_1.png)
 
 ## Deliverable 3
 
@@ -30,7 +30,7 @@ With the PCA done, it reduced the the dimensions of the X DataFrame to 3 princip
 
 Use an Elbow curve to find the best value for the K-means analysis.
 
-![K-Means]](./Resources/kmeans_1.png)
+![K-Means](./Resources/kmeans_1.png)
 
 I also made a DataFrame for the crypto data that we exported to a csv file.
 
@@ -42,7 +42,7 @@ I also made a DataFrame for the crypto data that we exported to a csv file.
 
 Lastly I created a 3D scatter plot model and an hvplot.table to review the data.
 
-![3DModel]](./Resources/3dModel.png)
+![3DModel](./Resources/3dModel.png)
 
 [hvlplot_table](./Resources/hvplot_table.html)
 
